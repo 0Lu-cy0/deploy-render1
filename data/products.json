@@ -1,0 +1,35 @@
+[{"Name":"Nguyen Xuan Hoang Cuong",
+"Age": 20,
+"Job":"Student in EPU",
+"Major":"Information Technology",
+"HomeTown": "Nam Dinh",
+"Sex": "Male"},
+
+{"Name":"Bui Duc Anh",
+ "Age": 22,
+ "Job":"FPT Employee",
+ "Major":"Cleaner",
+ "HomeTown": "Nam Dinh",
+ "Sex": "Male"},
+
+{"Name": "Nguyen Manh Chi",
+ "Age": 19,
+ "Job":"Student in EPU",
+ "Major":"Accounting Manager",
+ "HomeTown": "Ha Noi",
+ "Sex": "Male"},
+
+{"Name": "Nguyen Trong Duc Manh",
+"Age": 21,
+"Job":"Student in HUCE",
+"Major":"Architecture",
+"HomeTown": "Bac Giang",
+"Sex": "Female"},
+
+{"Name": "Nguyen Duc Long",
+"Age": 27,
+ "Job":"Nasa Employee",
+ "Major":"Technical Specialist",
+ "HomeTown": "Ca Mau",
+ "Sex": "Male"}
+]
